@@ -1,0 +1,2 @@
+# graphical-method
+Operations Research 
